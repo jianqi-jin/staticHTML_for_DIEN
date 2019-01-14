@@ -1,0 +1,23 @@
+body{
+
+	width: 1200px;  
+	margin: 0px auto;
+}
+
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.clearfloat{
+	clear: left;
+	clear:right;
+}
+a{
+	text-decoration:none;
+}
+ul{
+	list-style: none;
+}
+

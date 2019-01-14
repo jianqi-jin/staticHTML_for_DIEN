@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>jQuery无缝轮播插件 - 站长素材</title>
+	<link rel="stylesheet" type="text/css" href="../css/tools/ft-carousel.css">
+	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+	<script src="../js/tools/ft-carousel.min.js"></script>
+
+<style>
+
+.example {width: 624px;height: 336px;font-size: 40px;text-align: center;margin: 20px auto;background-color: #464576;}
+.carousel-item{line-height: 336px;color: #fff;font-family:  Arial Black}
+</style>
+
+</head>
+<body>
+
+
+
+<div class="example">
+	<div class="ft-carousel" id="carousel_3">
+		<ul class="carousel-inner">
+			<li class="carousel-item">1</li>
+			<li class="carousel-item">2</li>
+			<li class="carousel-item">3</li>
+			<li class="carousel-item">4</li>
+			<li class="carousel-item">5</li>
+			<li class="carousel-item">6</li>
+			<li class="carousel-item">7</li>
+		</ul>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+
+	$("#carousel_3").FtCarousel({
+		index: 0,
+		auto: true,
+		time: 3000,
+		indicators: false,
+		buttons: true
+	});
+</script>
+
+</body>
+</html>
