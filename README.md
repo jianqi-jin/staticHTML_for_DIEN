@@ -8,10 +8,10 @@
 > 此项目基于`jquery`编写，其中涉及大量的基层DOM操作(虽然现在流行的前端框架大多数尽量避免DOM操作，但是对DOM基础的学习和理解是必不可少的)
 ## 项目示例及运行截图：
 * 首页
-![](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/index.png(index))
+![image](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/index.png(index))
 * 二级页
-![](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/secpage.png(secpage))
+![image](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/secpage.png(secpage))
 * 详情页
-![](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/content.png(content))
+![image](https://github.com/2359634711/staticHTML_for_DIEN/blob/master/content.png(content))
 
 
